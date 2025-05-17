@@ -1,0 +1,20 @@
+{
+  "name": "otp_project",
+  "version": "1.0.0",
+  "description": "building OTP project for machine coding round",
+  "source": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
